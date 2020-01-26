@@ -13,7 +13,7 @@ public class heshTable {
         hashTable.print();
 
         System.out.println();
-        hashTable.delete("man");
+        hashTable.delete("rhino");
         System.out.println(       );
         hashTable.print();
 
