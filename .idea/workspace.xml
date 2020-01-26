@@ -95,7 +95,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
@@ -178,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestHesh.testClass1">
+  <component name="RunManager" selected="JUnit.TestHesh.testHashInsert">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -302,8 +302,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestHesh.testClass1" />
         <item itemvalue="JUnit.TestHesh.testHashInsert" />
+        <item itemvalue="JUnit.TestHesh.testClass1" />
         <item itemvalue="JUnit.TestCalc.testAdd" />
         <item itemvalue="JUnit.TestHesh.testClass" />
         <item itemvalue="Application.heshTable" />
