@@ -1,14 +1,16 @@
 public class heshTable {
     public static void main(String[] args) {
-        Table hashTable = new Table(7);
-        hashTable.insert("rhino");
-        hashTable.insert("man");
-        hashTable.insert("computer");
-        hashTable.insert("home");
-        hashTable.insert("basket");
-        hashTable.insert("Ferrari");
-        hashTable.insert("nam");
-        hashTable.print();
+        SimpleGUI app = new SimpleGUI();
+        app.setVisible(true);
+//        Table hashTable = new Table(7);
+//        hashTable.insert("rhino");
+//        hashTable.insert("man");
+//        hashTable.insert("computer");
+//        hashTable.insert("home");
+//        hashTable.insert("basket");
+//        hashTable.insert("Ferrari");
+//        hashTable.insert("nam");
+//        hashTable.print();
 //
 //        System.out.println();
 //        hashTable.delete("man");
